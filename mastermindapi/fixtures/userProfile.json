@@ -1,0 +1,29 @@
+[
+	{
+		"model": "mastermindapi.user",
+		"pk": 1,
+		"fields": {
+			"user": 1,
+			"Games Played": 3,
+			"profile_image_url": ""
+		}
+	},
+	{
+		"model": "mastermindapi.user",
+		"pk": 2,
+		"fields": {
+			"user": 2,
+			"Games Played": 2,
+			"profile_image_url": ""
+		}
+	},
+	{
+		"model": "mastermindapi.user",
+		"pk": 3,
+		"fields": {
+			"user": 3,
+			"Games Played": 6,
+			"profile_image_url": ""
+		}
+	}
+]
