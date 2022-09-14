@@ -1,0 +1,66 @@
+[
+	{
+		"model": "master_api.quizCategory",
+		"pk": 1,
+		"fields": {
+			"quiz_id": 1,
+			"category_id": 1
+		}
+	},
+	{
+		"model": "master_api.quizCategory",
+		"pk": 2,
+		"fields": {
+			"quiz_id": 2,
+			"category_id": 2
+		}
+	},
+	{
+		"model": "master_api.quizCategory",
+		"pk": 3,
+		"fields": {
+			"quiz_id": 3,
+			"category_id": 3
+		}
+	},
+	{
+		"model": "master_api.quizCategory",
+		"pk": 4,
+		"fields": {
+			"quiz_id": 4,
+			"category_id": 4
+		}
+	},
+	{
+		"model": "master_api.quizCategory",
+		"pk": 5,
+		"fields": {
+			"quiz_id": 5,
+			"category_id": 5
+		}
+	},
+	{
+		"model": "master_api.quizCategory",
+		"pk": 6,
+		"fields": {
+			"quiz_id": 6,
+			"category_id": 6
+		}
+	},
+	{
+		"model": "master_api.quizCategory",
+		"pk": 7,
+		"fields": {
+			"quiz_id": 7,
+			"category_id": 7
+		}
+	},
+	{
+		"model": "master_api.quizCategory",
+		"pk": 8,
+		"fields": {
+			"quiz_id": 8,
+			"category_id": 8
+		}
+	}
+]
