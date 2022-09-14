@@ -1,0 +1,58 @@
+[
+	{
+		"model": "mastermindapi.category",
+		"pk": 1,
+		"fields": {
+			"Name": "General"
+		}
+	},
+	{
+		"model": "mastermindapi.category",
+		"pk": 2,
+		"fields": {
+			"Name": "Music"
+		}
+	},
+	{
+		"model": "mastermindapi.category",
+		"pk": 3,
+		"fields": {
+			"Name": "History"
+		}
+	},
+	{
+		"model": "mastermindapi.category",
+		"pk": 4,
+		"fields": {
+			"Name": "Art"
+		}
+	},
+	{
+		"model": "mastermindapi.category",
+		"pk": 5,
+		"fields": {
+			"Name": "Entertainment"
+		}
+	},
+	{
+		"model": "mastermindapi.category",
+		"pk": 6,
+		"fields": {
+			"Name": "Science"
+		}
+	},
+	{
+		"model": "mastermindapi.category",
+		"pk": 7,
+		"fields": {
+			"Name": "Sports"
+		}
+	},
+	{
+		"model": "mastermindapi.category",
+		"pk": 8,
+		"fields": {
+			"Name": "Literature"
+		}
+	}
+]
