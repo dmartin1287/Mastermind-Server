@@ -3,7 +3,7 @@
 		"model": "auth.user",
 		"pk": 1,
 		"fields": {
-			"password": "Ace1286",
+			"password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR7I=",
 			"last_login": null,
 			"username": "Hisoka1287",
 			"first_name": "Hisoka",
@@ -16,7 +16,7 @@
 		"model": "auth.user",
 		"pk": 2,
 		"fields": {
-			"password": "Robots1437",
+			"password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR7I=",
 			"last_login": null,
 			"username": "Killua1287",
 			"first_name": "Killua",
@@ -30,9 +30,9 @@
 		"model": "auth.user",
 		"pk": 3,
 		"fields": {
-			"password": "Mastermind1397",
+			"password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR7I=",
 			"last_login": null,
-			"username": "DanielleM",
+			"username": "Master1287",
 			"first_name": "Danielle",
 			"last_name": "Martin",
 			"email": "Danielle@Martin.com",
