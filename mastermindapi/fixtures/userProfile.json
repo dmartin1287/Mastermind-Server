@@ -4,8 +4,7 @@
 		"pk": 1,
 		"fields": {
 			"user": 1,
-			"Games Played": 3,
-			"profile_image_url": ""
+			"games_played": 3
 		}
 	},
 	{
@@ -13,8 +12,7 @@
 		"pk": 2,
 		"fields": {
 			"user": 2,
-			"Games Played": 2,
-			"profile_image_url": ""
+			"games_played": 2
 		}
 	},
 	{
@@ -22,8 +20,7 @@
 		"pk": 3,
 		"fields": {
 			"user": 3,
-			"Games Played": 6,
-			"profile_image_url": ""
+			"games_played": 6
 		}
 	}
 ]

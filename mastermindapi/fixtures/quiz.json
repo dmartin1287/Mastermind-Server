@@ -1,0 +1,184 @@
+[
+{
+	"model": "master_api.quiz",
+	"pk": 1,
+	"fields": {
+		"answer": "Tom Cruise",
+		"category": [5],
+		"question": "What actor did author Anne Rice first denounce, then praise in the role of her beloved Lestat?"
+	}
+},
+{
+"model": "master_api.quiz",
+"pk": 2,
+"fields": {
+	"answer": "Edward Scissorhands",
+	"category": [5],
+	"question": "What was the title of the 1990 fantasy directed by Tim Burton about a young man with multi-bladed appendages?"
+}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 3,
+	"fields": {
+		"answer": "Chocolate",
+		"category": [5],
+		"question": "What flavor of Pop Tarts does Buddy the Elf use in his spaghetti in Elf? "
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 4,
+	"fields": {
+		"answer": "Roy",
+		"category": [5],
+		"question": "In 'The Office', which former boyfriend of Pam starts a successful gravel company after breaking up with her?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 5,
+	"fields": {
+		"answer": "Professonial Wrestling",
+		"category": [5],
+		"question": "Tom Cruise considered pursuing a career in what sport before being injured?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 6,
+	"fields": {
+		"answer": "Grookey",
+		"category": [5],
+		"question": "What is the Grass-type starter in 'Pokemon Sword and Shield'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 7,
+	"fields": {
+		"answer": "Ethan",
+		"category": [5],
+		"question": "Which character do you play as in 'Resident Evil 7: Bio Hazard'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 8,
+	"fields": {
+		"answer": "Marisa Tomei",
+		"category": [5],
+		"question": "In 'Spider-Man: Far From Home' what actress plays Peter's aunt, May Parker?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 9,
+	"fields": {
+		"answer": "Pontiac Firebird Trans Am",
+		"category": [5],
+		"question": "In 'The Office', Dwight is fiercely proud of owning what muscle car?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 10,
+	"fields": {
+		"answer": "A Cross-Dressing Hula Dance",
+		"category": [5],
+		"question": "What does Timon do in 'The Lion King' to distract the hyenas?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 11,
+	"fields": {
+		"answer": "Samsung",
+		"category": [1],
+		"question": "What is the name of the biggest technology company in South Korea?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 12,
+	"fields": {
+		"answer": "Ferdinand Magellan",
+		"category": [1],
+		"question": "Who named the Pacific Ocean?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 13,
+	"fields": {
+		"answer": "Marie Curie",
+		"category": [1],
+		"question": "Who was the first woman to win a Nobel Prize in 1903?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 14,
+	"fields": {
+		"answer": "Coca Cola",
+		"category": [1],
+		"question": "What was the first soft drink in space?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 15,
+	"fields": {
+		"answer": "Snow White and the Seven Dwarfs",
+		"category": [1],
+		"question": "What was the first feature-length animated movie ever released?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 16,
+	"fields": {
+		"answer": "Floaters",
+		"category": [1],
+		"question": "What are the small spots called occasionally seen in your field of vision?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 17,
+	"fields": {
+		"answer": "Bridge",
+		"category": [1],
+		"question": "Leonardo da Vinci was hired by the Duke of Milan when he said he could build a portable what?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 18,
+	"fields": {
+		"answer": "Bat",
+		"category": [1],
+		"question": "Vampires are typically known for turning into which animal?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 19,
+	"fields": {
+		"answer": "Tower of London",
+		"category": [1],
+		"question": "Where will you find the Crown Jewels of England?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 20,
+	"fields": {
+		"answer": "White Lily",
+		"category": [1],
+		"question": "What is the official flower of Easter?"
+	}
+}
+]
+
+
