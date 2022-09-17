@@ -178,6 +178,546 @@
 		"category": [1],
 		"question": "What is the official flower of Easter?"
 	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 21,
+	"fields": {
+		"answer": "Kiki Dee",
+		"category": [2],
+		"question": "Elton John's 1976 hit single 'Don't Go Breaking My Heart' was a duet with which female vocalist?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 22,
+	"fields": {
+		"answer": "Going to Georgia",
+		"category": [2],
+		"question": "What's the name of the first Mountain Goats song to become a fan favorite?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 23,
+	"fields": {
+		"answer": "U2",
+		"category": [2],
+		"question": "Who won the Song of the Year Grammy in 2006 for 'Sometimes You Can't Make It On Your Own'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 24,
+	"fields": {
+		"answer": "2009",
+		"category": [2],
+		"question": "The band Twenty One Pilots was formed in what year?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 25,
+	"fields": {
+		"answer": "1990s",
+		"category": [2],
+		"question": "What decade is the hit single 'If I Ever Lose My Faith In You' by Sting from?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 26,
+	"fields": {
+		"answer": "John Lennon",
+		"category": [2],
+		"question": "With which Beatle did David Bowie co-write the song 'Fame'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 27,
+	"fields": {
+		"answer": "Bruno Mars",
+		"category": [2],
+		"question": "Who won top R&B Male Artist at the Billboard Music Awards 2018?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 28,
+	"fields": {
+		"answer": "1978",
+		"category": [2],
+		"question": "The band Duran Duran was formed in what year?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 29,
+	"fields": {
+		"answer": "E.T.",
+		"category": [2],
+		"question": "Which Katy Perry / Kanye West collaboration stayed at the top of the Billboard Hot 100 for 5 weeks in 2011?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 30,
+	"fields": {
+		"answer": "Melanie Martinez",
+		"category": [2],
+		"question": "Who had a hit with the song 'Mad Hatter'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 31,
+	"fields": {
+		"answer": "1939",
+		"category": [3],
+		"question": "In what year did World War II officially begin?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 32,
+	"fields": {
+		"answer": "Soviet Union",
+		"category": [3],
+		"question": "What broke up after President Gorbachev's resignation in 1991?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 33,
+	"fields": {
+		"answer": "1901",
+		"category": [3],
+		"question": "In what year did Australia become a federated nation?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 34,
+	"fields": {
+		"answer": "Zen",
+		"category": [3],
+		"question": "Which form of Buddhism stressed meditation as a means to enlightenment?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 35,
+	"fields": {
+		"answer": "The War Of 1812",
+		"category": [3],
+		"question": "In which war were battles fought at Chrysler's Farm, Queenston Heights, and Lundy's Lane?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 36,
+	"fields": {
+		"answer": "Panama",
+		"category": [3],
+		"question": "What country did General Manuel Noriega run in the 1980's?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 37,
+	"fields": {
+		"answer": "The Longbow",
+		"category": [3],
+		"question": "What English weapon destroyed the French at Agincourt in 1415?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 38,
+	"fields": {
+		"answer": "Red",
+		"category": [3],
+		"question": "What color dresses do Chinese women traditionally wear on their wedding day?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 39,
+	"fields": {
+		"answer": "1931",
+		"category": [3],
+		"question": "In which year of the 1900's did the Japanese army invade Manchuria?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 40,
+	"fields": {
+		"answer": "Japan",
+		"category": [3],
+		"question": "Which country's subway system was paralyzed by a deadly nerve gas attack in 1995?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 41,
+	"fields": {
+		"answer": "Michelangelo",
+		"category": [4],
+		"question": "Who painted the Sistine Chapel's ceiling?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 42,
+	"fields": {
+		"answer": "Da Vinci",
+		"category": [4],
+		"question": "The 'Mona Lisa' was painted by?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 43,
+	"fields": {
+		"answer": "Madrid",
+		"category": [4],
+		"question": "In which city is the Prado Art Gallery?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 44,
+	"fields": {
+		"answer": "Surrealism",
+		"category": [4],
+		"question": "Which art movement is Salvador Dali associated with?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 45,
+	"fields": {
+		"answer": "Paloma",
+		"category": [4],
+		"question": "What is Pablo Picasso's daughter's name?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 46,
+	"fields": {
+		"answer": "Andrew Wyeth",
+		"category": [4],
+		"question": "What artist is famous for the 'Helga Pictures'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 47,
+	"fields": {
+		"answer": "Italy",
+		"category": [4],
+		"question": "In what country was the famous artist Leonardo da Vinci born?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 48,
+	"fields": {
+		"answer": "Vincent van Gogh",
+		"category": [4],
+		"question": "Which artist created the famous painting 'The Starry Night'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 49,
+	"fields": {
+		"answer": "Jean Francois Millet",
+		"category": [4],
+		"question": "Which artist painted 'The Gleaners'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 50,
+	"fields": {
+		"answer": "Edvard Munch",
+		"category": [4],
+		"question": "Which artist created the famous painting 'The Scream'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 51,
+	"fields": {
+		"answer": "Erosion",
+		"category": [6],
+		"question": "What is the wearing away of parts of the Earth by water or wind called?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 52,
+	"fields": {
+		"answer": "Two",
+		"category": [6],
+		"question": "How many stomachs does an ant have?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 53,
+	"fields": {
+		"answer": "Estivation",
+		"category": [6],
+		"question": "What is the summer counterpart of hibernation?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 54,
+	"fields": {
+		"answer": "Planet",
+		"category": [6],
+		"question": "What is the name for a body in orbit around the Sun?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 55,
+	"fields": {
+		"answer": "Edvard Munch",
+		"category": [6],
+		"question": "Which artist created the famous painting 'The Scream'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 56,
+	"fields": {
+		"answer": "Spiracles",
+		"category": [6],
+		"question": "Fish take in oxygen through their gills; what do insects take in oxygen through?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 57,
+	"fields": {
+		"answer": "Nine",
+		"category": [6],
+		"question": "How many planets are there in the Solar System (including Pluto)?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 58,
+	"fields": {
+		"answer": "Edvard Munch",
+		"category": [6],
+		"question": "Which artist created the famous painting 'The Scream'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 59,
+	"fields": {
+		"answer": "Seven",
+		"category": [6],
+		"question": "How many bones are in a giraffe's neck?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 60,
+	"fields": {
+		"answer": "Transpiration",
+		"category": [6],
+		"question": "What is the release of water vapor from plants called?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 61,
+	"fields": {
+		"answer": "Joe DiMaggio",
+		"category": [7],
+		"question": "Which baseball player was famous for his 56-game hitting streak?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 62,
+	"fields": {
+		"answer": "Cameron Wake",
+		"category": [7],
+		"question": "Which Dolphins player was named an All-Pro in 2012 after accumulating 15 sacks?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 63,
+	"fields": {
+		"answer": "Aaron Rodgers",
+		"category": [7],
+		"question": "Which player won the most FedEx Air QB of the week awards during the 2011 NFL season?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 64,
+	"fields": {
+		"answer": "Petra Kvitova",
+		"category": [7],
+		"question": "Which tennis player won a third Fed Cup title with the Czech Republic team in 2014?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 65,
+	"fields": {
+		"answer": "Jimmy Connors",
+		"category": [7],
+		"question": "Which American tennis player popularized metal rackets by first using a Wilson T-2000?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 66,
+	"fields": {
+		"answer": "Alzain Tareq",
+		"category": [7],
+		"question": "In 2015, at the age of 10, who became the youngest competitive swimmer in World Championships history?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 67,
+	"fields": {
+		"answer": "Dwane Casey",
+		"category": [7],
+		"question": "At the 2018 NBA All Star Game, who was the head coach of Team LeBron?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 68,
+	"fields": {
+		"answer": "French",
+		"category": [7],
+		"question": "What nationality is former Arsenal coach, Arsene Wenger?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 69,
+	"fields": {
+		"answer": "Goalkeeper",
+		"category": [7],
+		"question": "What soccer position does Jon Busch play?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 70,
+	"fields": {
+		"answer": "Allen Iverson",
+		"category": [7],
+		"question": "Derrick Rose was the first guard to be drafted first overall in the NBA draft since which player in 1996?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 71,
+	"fields": {
+		"answer": "Grendel",
+		"category": [8],
+		"question": "The hero Beowulf faces a monster known by what name?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 72,
+	"fields": {
+		"answer": "Luke",
+		"category": [8],
+		"question": "What is the name of the friend that betrays Percy in 'The Lightning Thief'?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 73,
+	"fields": {
+		"answer": "The Picture of Dorian Gray",
+		"category": [8],
+		"question": "What novel written by Oscar Wilde has to do with immortality?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 74,
+	"fields": {
+		"answer": "Pride and Prejudice",
+		"category": [8],
+		"question": "What novel centers around marriage during the Victorian era, describing the fascination that a group of sisters have over one man?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 75,
+	"fields": {
+		"answer": "Four",
+		"category": [8],
+		"question": "In A Christmas Carol, how many ghosts visit Scrooge?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 76,
+	"fields": {
+		"answer": "Charlotte",
+		"category": [8],
+		"question": "Jane Eyre was written by which of the Bronte sisters?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 77,
+	"fields": {
+		"answer": "Shakespeare",
+		"category": [8],
+		"question": "Who wrote the line, “Where ignorance is bliss, it is folly to be wise”?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 78,
+	"fields": {
+		"answer": "The Odyssey",
+		"category": [8],
+		"question": "What classic written by Homer relates the adventures and life of Odysseus??"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 79,
+	"fields": {
+		"answer": "Hagrid",
+		"category": [8],
+		"question": "Who told Harry Potter that he was a wizard?"
+	}
+},
+{
+	"model": "master_api.quiz",
+	"pk": 80,
+	"fields": {
+		"answer": "The Louvre",
+		"category": [8],
+		"question": "The Da Vinci Code opens with a murder in which famous museum?"
+	}
 }
 ]
 
