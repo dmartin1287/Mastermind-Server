@@ -1,0 +1,27 @@
+[
+		{
+			"model": "auth.highscore",
+			"pk": 1,
+			"fields": {
+				
+				"highscore": 300,
+				"user": 1
+			}
+		},
+		{
+			"model": "auth.highscore",
+			"pk": 2,
+			"fields": {
+				"highscore": 200,
+				"user": 2 
+			}
+		},
+		{
+			"model": "auth.highscore",
+			"pk": 3,
+			"fields": {
+				"highscore": 100,
+				"user": 3
+			}
+		}
+]
