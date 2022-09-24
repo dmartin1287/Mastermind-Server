@@ -20,7 +20,7 @@
 			"model": "auth.highscore",
 			"pk": 3,
 			"fields": {
-				"highscore": 100,
+				"highscore": 500,
 				"user": 3
 			}
 		}
