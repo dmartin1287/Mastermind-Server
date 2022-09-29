@@ -239,7 +239,7 @@
 	"fields": {
 		"answer": "Bruno Mars",
 		"category": [2],
-		"question": "Who won top R&B Male Artist at the Billboard Music Awards 2018?"
+		"question": "Who won top R&B Male Artist at the Billboard Music Awards in 2018?"
 	}
 },
 {
@@ -257,7 +257,7 @@
 	"fields": {
 		"answer": "E.T.",
 		"category": [2],
-		"question": "Which Katy Perry / Kanye West collaboration stayed at the top of the Billboard Hot 100 for 5 weeks in 2011?"
+		"question": "Which Katy Perry and Kanye West collaboration stayed at the top of the Billboard Hot 100 for 5 weeks in 2011?"
 	}
 },
 {
@@ -509,7 +509,7 @@
 	"fields": {
 		"answer": "Nine",
 		"category": [6],
-		"question": "How many planets are there in the Solar System (including Pluto)?"
+		"question": "How many planets are there in the Solar System including Pluto?"
 	}
 },
 {
@@ -680,7 +680,7 @@
 	"fields": {
 		"answer": "Charlotte",
 		"category": [8],
-		"question": "Jane Eyre was written by which of the Bronte sisters?"
+		"question": "'Jane Eyre' was written by which of the Bronte sisters?"
 	}
 },
 {
@@ -689,7 +689,7 @@
 	"fields": {
 		"answer": "Shakespeare",
 		"category": [8],
-		"question": "Who wrote the line, “Where ignorance is bliss, it is folly to be wise”?"
+		"question": "Who wrote the line, 'Where ignorance is bliss, it is folly to be wise'?"
 	}
 },
 {
@@ -698,7 +698,7 @@
 	"fields": {
 		"answer": "The Odyssey",
 		"category": [8],
-		"question": "What classic written by Homer relates the adventures and life of Odysseus??"
+		"question": "What classic written by Homer tells the story of the adventures and life of Odysseus??"
 	}
 },
 {
@@ -716,7 +716,7 @@
 	"fields": {
 		"answer": "The Louvre",
 		"category": [8],
-		"question": "The Da Vinci Code opens with a murder in which famous museum?"
+		"question": "The 'Da Vinci Code' opens with a murder in which famous museum?"
 	}
 }
 ]
